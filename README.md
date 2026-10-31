@@ -14,6 +14,14 @@ This skill enables you to use Google NotebookLM directly within Antigravity for:
 
 ## Installation in Antigravity
 
+### Windows Users
+
+A step-by-step Windows installation guide is available in:
+
+[WINDOWS_SETUP.md](WINDOWS_SETUP.md)
+
+**Important:** The installation script (`scripts/install.sh`) is designed for bash-compatible environments. Windows users should follow the Windows guide instead of running the script directly from Command Prompt.
+
 ### Option 1: Global Installation (Available Across All Projects)
 
 Clone or copy this skill to:
